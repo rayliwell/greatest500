@@ -1,0 +1,9 @@
+name = "greatest500"
+compatibility_date = "2024-07-29"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "greatest500"
+database_id = "ce927960-f63f-4d57-97fe-acf7146c8ce2"
